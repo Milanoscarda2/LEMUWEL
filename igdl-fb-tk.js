@@ -18,7 +18,7 @@ zokou({nomCom : "instagram" , categorie : "Download"},async (dest , zk , command
     zk.sendMessage(dest,{video : {url : igvid.data.data.data[0].url},caption : "ig video downloader powered by *Bmw-Md*",gifPlayback : false },{quoted : ms}) 
     }
     else {
-        zk.sendMessage(dest,{image : {url : igvid.data.data.data[0].url},caption : "ig image downloader powered by *Bmw-Md*"})
+        zk.sendMessage(dest,{image : {url : igvid.data.data.data[0].url},caption : "ig image downloader powered by *milanoscarda*"})
     }
   
   } catch (e) {repondre("erreur survenue lors du téléchargement \n " + e)}
@@ -29,7 +29,7 @@ zokou({nomCom : "instagram" , categorie : "Download"},async (dest , zk , command
 zokou({
   nomCom: "facabook",
   categorie: "Download",
-  reaction: "📽️"
+  reaction: "🪄"
 },
 async (dest, zk, commandeOptions) => {
   const { repondre, ms, arg } = commandeOptions;
@@ -93,7 +93,7 @@ Description: ${tik.desc}
 zokou({
   nomCom: "facebook2",
   categorie: "Download",
-  reaction: "📽️"
+  reaction: "🪄"
 },
 async (dest, zk, commandeOptions) => {
   const { repondre, ms, arg } = commandeOptions;
@@ -113,7 +113,7 @@ async (dest, zk, commandeOptions) => {
         Lien: ${result.url}
       `;
        zk.sendMessage(dest,{image : { url : result.thumbnail}, caption : caption},{quoted : ms}) ;
-       zk.sendMessage(dest, { video: { url: result.sd  }, caption: 'facebook video downloader powered by *Bmw-MD*' }, { quoted: ms });
+       zk.sendMessage(dest, { video: { url: result.sd  }, caption: 'facebook video downloader powered by *milanoscarda*' }, { quoted: ms });
       
     })
     .catch((error) => {console.log("Error:", error)
