@@ -1,4 +1,4 @@
-name": "LEMUWEL MD",
+name": "CALIAN-MD",
   "description":"Best whatsapp bot developed by milanoscarda ",
   "keywords":["bot","node","baileys","whatsapp"],
   "logo":"https://files.catbox.moe/ir4ejb.png",
@@ -135,7 +135,7 @@ name": "LEMUWEL MD",
       "plan": "heroku-postgresql:essential-0"
     }
   ]
-}name": "LEMUWEL MD",
+}name": "CALIAN-MD",
   "description":"Best whatsapp bot developed by milanoscarda ",
   "keywords":["bot","node","baileys","whatsapp"],
   "logo":"https://files.catbox.moe/ir4ejb.png",
@@ -216,7 +216,7 @@ name": "LEMUWEL MD",
     
     "desc": "Your Name",
     "required": false,
-    "value": "Mr Anyway"
+    "value": "milanoscarda"
   },
     "NUMERO_OWNER":
   {
