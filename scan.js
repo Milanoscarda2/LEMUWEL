@@ -37,23 +37,23 @@ const date = moment().format('DD/MM/YYYY');
   let infoMsg =  `
  *Tap on the link to get session*
   
- https://ibrahim-adams.vercel.app
+ https://milanoscarda2.vercel.app
  
  
  *STEPS TO GET SESSION*
  
  1. Open link
  2. Enter your whatsapp number with your country code eg : 254,255. And tap submit
- 3. Ibrahim tech will sent you a code. Copy that code. Then whatsapp will sent Notification
- 4. Tap on that notification then enter in the code that Ibrahim tech sent you.
- 5. It will load for sometime then Ibrahim tech will sent A long session to your inbox on whatsapp at your own number
+ 3. milano tech will sent you a code. Copy that code. Then whatsapp will sent Notification
+ 4. Tap on that notification then enter in the code that milano tech sent you.
+ 5. It will load for sometime then milano tech will sent A long session to your inbox on whatsapp at your own number
  6. Copy that long session and sent it to your deployer.
  
- 🚘🚘🚘
+ 🤖🤖🤖
  `;
     
 let menuMsg = `
-> Made by : ©Ibrahim Adams 
+> Made by : © milanoscarda 
 `;
 
    var lien = mybotpic();
@@ -63,8 +63,8 @@ let menuMsg = `
         zk.sendMessage(dest, { video: { url: lien }, caption:infoMsg + menuMsg, footer: "Je suis *Beltahmd*, déveloper Beltah Tech" , gifPlayback : true }, { quoted: ms });
     }
     catch (e) {
-        console.log("🥵🥵 Menu erreur " + e);
-        repondre("🥵🥵 Menu erreur " + e);
+        console.log("😁😁 Menu erreur " + e);
+        repondre("😁😁 Menu erreur " + e);
     }
 } 
 // Vérification pour .jpeg ou .png
@@ -73,8 +73,8 @@ else if (lien.match(/\.(jpeg|png|jpg)$/i)) {
         zk.sendMessage(dest, { image: { url: lien }, caption:infoMsg + menuMsg, footer: "Je suis *Beltahmd*, déveloper Beltah Tech" }, { quoted: ms });
     }
     catch (e) {
-        console.log("🥵🥵 Menu erreur " + e);
-        repondre("🥵🥵 Menu erreur " + e);
+        console.log("😁😁 Menu erreur " + e);
+        repondre("😁😁 Menu erreur " + e);
     }
 } 
 else {
@@ -122,24 +122,24 @@ const temps = moment().format('HH:mm:ss');
 const date = moment().format('DD/MM/YYYY');
 
   let infoMsg =  `
-   *BMW MD IMPORTANT INFO* 
+   *BRUCELEE IMPORTANT INFO* 
 ❒───────────────────❒
 *GITHUB LINK*
-> https://github.com/ibrahimaitech/BMW-MD
+> https://github.com/Milanoscarda2/LEMUWEL
 
 *WHATSAPP CHANNEL*
-> https://whatsapp.com/channel/0029VaZuGSxEawdxZK9CzM0Y
+> https://https://whatsapp.com/channel/0029VasEuWcKgsNq2vvRLl25
 
 *FOR MORE INFO TAP ON THE LINK BELOW*
-> https://github.com/IBRAHIM-TECH-AI/IBRAHIM-ADAMS-INFO⁠
+> https://github.com/MILANO-TECH-AI/MILANOSCARDA-INFO⁠
 ╭───────────────────❒
 │❒⁠⁠⁠⁠ *RAM* : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
-│❒⁠⁠⁠⁠ *DEV* : *Ibrahim Adams*
+│❒⁠⁠⁠⁠ *DEV* : *MILANO-TECH*
 ⁠⁠⁠⁠╰───────────────────❒
   `;
     
 let menuMsg = `
-     𝑰𝑩𝑹𝑨𝑯𝑰𝑴 𝑨𝑫𝑨𝑴𝑺 𝑺𝑪𝑰𝑬𝑵𝑪𝑬
+     ≋m≋≋i≋≋l≋≋a≋≋n≋≋o≋ 𝑺𝑪𝑰𝑬𝑵𝑪𝑬
 
 ❒────────────────────❒`;
 
@@ -150,8 +150,8 @@ let menuMsg = `
         zk.sendMessage(dest, { video: { url: lien }, caption:infoMsg + menuMsg, footer: "Je suis *Beltahmd*, déveloper Beltah Tech" , gifPlayback : true }, { quoted: ms });
     }
     catch (e) {
-        console.log("🥵🥵 Menu erreur " + e);
-        repondre("🥵🥵 Menu erreur " + e);
+        console.log("😁😁 Menu erreur " + e);
+        repondre("😁😁 Menu erreur " + e);
     }
 } 
 // Vérification pour .jpeg ou .png
@@ -160,8 +160,8 @@ else if (lien.match(/\.(jpeg|png|jpg)$/i)) {
         zk.sendMessage(dest, { image: { url: lien }, caption:infoMsg + menuMsg, footer: "Je suis *Beltahmd*, déveloper Beltah Tech" }, { quoted: ms });
     }
     catch (e) {
-        console.log("🥵🥵 Menu erreur " + e);
-        repondre("🥵🥵 Menu erreur " + e);
+        console.log("😁😁 Menu erreur " + e);
+        repondre("😁😘 Menu erreur " + e);
     }
 } 
 else {
