@@ -11,7 +11,7 @@ zokou({
 async (origineMessage, zk, commandeOptions) => {
   const { repondre, ms } = commandeOptions;
 
-  const jsonURL = "https://api.jikan.moe/v4/random/anime"; // Remplacez par votre URL JSON
+  const jsonURL = "https://files.catbox.moe/wn8hos.mp4"; // Remplacez par votre URL JSON
 
   try {
     const response = await axios.get(jsonURL);
