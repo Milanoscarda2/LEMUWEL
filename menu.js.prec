@@ -74,8 +74,8 @@ zokou({ nomCom: "menu", categorie: "General" }, async (dest, zk, commandeOptions
         zk.sendMessage(dest, { image: { url: link }, caption: menuMsg, footer: "by Djalega++" }, { quoted: ms });
     }
     catch (e) {
-        console.log("🥵🥵 Menu erreur " + e);
-        repondre("🥵🥵 Menu erreur " + e);
+        console.log("😁😁 Menu erreur " + e);
+        repondre("😁😁 Menu erreur " + e);
     }
 });
 /*
@@ -115,7 +115,7 @@ var tt=[]
  async  function execute(dest,zok,commandeOptions?)
   {
 
-    var link = "https://wallpapercave.com/uwp/uwp3860299.jpeg"
+    var link = "https://files.catbox.moe/92jgih.jpg"
     // var listCom =listeCommande()
     let msg= "  ╩═══ * Ƶ𝓞ｋØ𝓊 * ╩═══\n\n"
 
