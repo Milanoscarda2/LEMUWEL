@@ -62,8 +62,8 @@ let menuMsg = `
         zk.sendMessage(dest, { video: { url: lien }, caption:infoMsg + menuMsg, footer: "Je suis *Beltahmd*, déveloper Beltah Tech" , gifPlayback : true }, { quoted: ms });
     }
     catch (e) {
-        console.log("🥵🥵 Menu erreur " + e);
-        repondre("🥵🥵 Menu erreur " + e);
+        console.log("😁😁 Menu erreur " + e);
+        repondre("😁😁 Menu erreur " + e);
     }
 } 
 // Vérification pour .jpeg ou .png
@@ -72,8 +72,8 @@ else if (lien.match(/\.(jpeg|png|jpg)$/i)) {
         zk.sendMessage(dest, { image: { url: lien }, caption:infoMsg + menuMsg, footer: "Je suis *Beltahmd*, déveloper Beltah Tech" }, { quoted: ms });
     }
     catch (e) {
-        console.log("🥵🥵 Menu erreur " + e);
-        repondre("🥵🥵 Menu erreur " + e);
+        console.log("😁😁 Menu erreur " + e);
+        repondre("😁😁 Menu erreur " + e);
     }
 } 
 else {
@@ -149,8 +149,8 @@ let menuMsg = `
         zk.sendMessage(dest, { video: { url: lien }, caption:infoMsg + menuMsg, footer: "Je suis *Beltahmd*, déveloper Beltah Tech" , gifPlayback : true }, { quoted: ms });
     }
     catch (e) {
-        console.log("🥵🥵 Menu erreur " + e);
-        repondre("🥵🥵 Menu erreur " + e);
+        console.log("😁😁 Menu erreur " + e);
+        repondre("😁😁 Menu erreur " + e);
     }
 } 
 // Vérification pour .jpeg ou .png
@@ -159,8 +159,8 @@ else if (lien.match(/\.(jpeg|png|jpg)$/i)) {
         zk.sendMessage(dest, { image: { url: lien }, caption:infoMsg + menuMsg, footer: "Je suis *Beltahmd*, déveloper Beltah Tech" }, { quoted: ms });
     }
     catch (e) {
-        console.log("🥵🥵 Menu erreur " + e);
-        repondre("🥵🥵 Menu erreur " + e);
+        console.log("😁😁 Menu erreur " + e);
+        repondre("😁😁 Menu erreur " + e);
     }
 } 
 else {
