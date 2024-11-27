@@ -12,7 +12,7 @@ zokou({
 async (origineMessage, zk, commandeOptions) => {
   const { repondre, ms } = commandeOptions;
 
-  const url = 'https://api.waifu.pics/sfw/waifu'; // Remplacez avec le lien réel de l'API waifu.pics
+  const url = 'https://files.catbox.moe/eojqhf.jpg'; // Remplacez avec le lien réel de l'API waifu.pics
 
   try {
     
@@ -36,7 +36,7 @@ zokou({
 async (origineMessage, zk, commandeOptions) => {
   const { repondre, ms } = commandeOptions;
 
-  const url = 'https://api.waifu.pics/sfw/neko'; // Remplacez avec le lien réel de l'API waifu.pics ou une autre API de nekos
+  const url = 'https://files.catbox.moe/eojqhf.jpg'; // Remplacez avec le lien réel de l'API waifu.pics ou une autre API de nekos
 
   try {
     for (let i = 0; i < 5; i++) {
@@ -59,7 +59,7 @@ zokou({
 async (origineMessage, zk, commandeOptions) => {
   const { repondre, ms } = commandeOptions;
 
-  const url = 'https://api.waifu.pics/sfw/shinobu'; // Remplacez avec le lien réel de l'API waifu.pics ou une autre API avec des images de Shinobu
+  const url = 'https://files.catbox.moe/eojqhf.jpg'; // Remplacez avec le lien réel de l'API waifu.pics ou une autre API avec des images de Shinobu
 
   try {
     for (let i = 0; i < 5; i++) {
@@ -82,7 +82,7 @@ zokou({
 async (origineMessage, zk, commandeOptions) => {
   const { repondre, ms } = commandeOptions;
 
-  const url = 'https://api.waifu.pics/sfw/megumin'; // Remplacez avec le lien réel de l'API waifu.pics ou une autre API avec des images de Megumin
+  const url = 'https://files.catbox.moe/eojqhf.jpg'; // Remplacez avec le lien réel de l'API waifu.pics ou une autre API avec des images de Megumin
 
   try {
     for (let i = 0; i < 5; i++) {
