@@ -24,7 +24,7 @@
 #### SETUP 
 
 
-[`FORK`](https://github.com/Milanoscarda2/BRUCELEE)
+[`FORK`](https://github.com/Milanoscarda2/LEMUWEL)
 
 
  
@@ -44,7 +44,7 @@
 
 2. `If You Have a Heroku Account`
 
-  - <a align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/Milanoscarda2/BRUCELEE"> <img src="https://img.shields.io/badge/DEPLOY%20NOW-brown?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+  - <a align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/Milanoscarda2/LEMUWEL"> <img src="https://img.shields.io/badge/DEPLOY%20NOW-brown?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 
 #### DEPLOY ON RENDER 
