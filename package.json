@@ -1,13 +1,13 @@
 {
-  "name": "Bmw-md",
+  "name": "BRUCELEE-V1",
   "version": "2.0.0",
   "description": "",
-  "main": "ibrahim.js", 
+  "main": "milano.js", 
   "scripts": {
-    "test": "node ibrahim.js",
-    "s": "node ibrahim.js",
-    "toshtech": "pm2 start ibrahim.js --attach",
-    "toshtech": "pm2 start ibrahim.js --attach",
+    "test": "node milano.js",
+    "s": "node milano.js",
+    "toshtech": "pm2 start milano.js --attach",
+    "toshtech": "pm2 start milano.js --attach",
     "c": "tsc"
   },
   "keywords": [
@@ -18,7 +18,7 @@
     "whatsapp-bot",
     "bmw-md-boy"
   ],
-  "author": "Tosh205",
+  "author": "milanoscarda",
 "license": "ISC",
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",
