@@ -13,7 +13,7 @@ zokou({ nomCom: 'quote', categorie: 'Fun' }, async (dest, zk, commandeOptions) =
         .then((response) => response.json())
         .then(async (quote) => {
           repondre(`╔══════════════════════════╗
-║   Bmw-md               ║
+║   Brucelee-v1              ║
 ╚══════════════════════════╝
 
 🎬 Anime: ${quote.anime}
@@ -36,7 +36,7 @@ const _0xdb13a5=_0x4f16;function _0x4f16(_0x3cd965,_0x3cf8f0){const _0x298aa0=_0
         .then((response) => response.json())
         .then(async (quote) => {
           repondre(`╔══════════════════════════╗
-║   Bmw-md               ║
+║   Brucelee-v1              ║
 ╚══════════════════════════╝
 
 🎬 Anime: ${quote.anime}
