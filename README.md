@@ -1,8 +1,7 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 <p align="center">
-src='https://i.imgur.com/LyHic3i.gif'/></a><a><img                                                  
-  𝕓𝕣𝕦𝕔𝕖𝕝𝕖𝕖-𝗩𝟭 
+ 𝔹ℝ𝕌ℂ𝔼𝕃𝔼𝔼-ᐯ1                                   
   
 
 </p>
