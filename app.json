@@ -1,8 +1,9 @@
-name":"Milano scar MD",
-  "description":"Best whatsapp bot developed by milanoscarda ",
+  {
+  "name":"ANYWAY-MD-V1",
+  "description":"Best whatsapp bot developed by mr anyway ",
   "keywords":["bot","node","baileys","whatsapp"],
   "logo":"https://files.catbox.moe/ir4ejb.png",
-  "repository":"https://github.com/Milanoscarda2/LEMUWEL",
+  "repository":"https://github.com/SIMON32883/MR-ANYWAY-MD",
   "succes_url":"/",
   "stack":"container",
   "env":{
@@ -40,14 +41,14 @@ name":"Milano scar MD",
     "BOT_NAME" : {
        
       "description":"put A name for your bot",
-      "value":"-BRUCELEE-MD",
+      "value":"-ANYWAY-MD",
       "required":false
 
     } ,
      "BOT_MENU_LINKS" : {
     
       "description":"add one or many link for your bot menu  ; eg : url1,url2,url3.....",
-      "value":"https://files.catbox.moe/92jgih.jpg",
+      "value":"https://files.catbox.moe/ir4ejb.png",
       "required":false
        
      },
@@ -79,14 +80,14 @@ name":"Milano scar MD",
     
     "desc": "Your Name",
     "required": false,
-    "value": "milanoscarda"
+    "value": "Mr Anyway"
   },
     "NUMERO_OWNER":
   {
     
     "desc": "Your number , dont put '+' and put you area code(exemple of togo '228')",
     "required":false,
-    "value": "254706452828"
+    "value": "255678892560"
   },
     "WARN_COUNT":
   {
